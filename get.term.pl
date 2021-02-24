@@ -1,4 +1,4 @@
-open(go,"GO_level.txt");
+open(go,"GO_level.tsv");
 while(<go>)
 {
 	chomp;
